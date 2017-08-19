@@ -32,6 +32,6 @@ There were no licenses for this project.
 
 * Thanks to Omar, the TA's and all the classmates for the help and patience.
 * Background Pattern used from: https://www.toptal.com/designers/subtlepatterns/
-* My dog Buddy and his picture.
+* Buddy the dog's pictures.
 
 # Basic-Portfolio
